@@ -12,7 +12,7 @@ MODEL = "openai/gpt-oss-120b:free"
 BATCH_SIZE = 15
 
 #API 
-api_key = "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"
+api_key = ""
 
 client = OpenAI(
     api_key=api_key,
